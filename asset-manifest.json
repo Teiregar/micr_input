@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/micr_input/static/css/main.21cf95e1.css",
+    "main.js": "/micr_input/static/js/main.ccab4029.js",
+    "static/js/787.28cb0dcd.chunk.js": "/micr_input/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/micr_input/index.html",
+    "main.21cf95e1.css.map": "/micr_input/static/css/main.21cf95e1.css.map",
+    "main.ccab4029.js.map": "/micr_input/static/js/main.ccab4029.js.map",
+    "787.28cb0dcd.chunk.js.map": "/micr_input/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21cf95e1.css",
+    "static/js/main.ccab4029.js"
+  ]
+}
